@@ -17,6 +17,24 @@ QR Code Generator is a web application that allows users to generate QR codes fo
 - **QR Code Generation**: qrcode library (Python), aspose.words (Python)
 - **Download Button**: html-to-image, FileSaver
 
+## Responsive Design
+
+Our website is designed to be fully responsive, ensuring a great user experience across a wide range of devices. Below are video demonstrations for both large screens (PC and tablet) and mobile screens to showcase how the website adapts to different screen sizes:
+
+### Large Screens (PC and Tablet)
+
+https://github.com/TheAdmi/QRGenerator/assets/95725338/6efad962-2582-49a8-aba8-88ae4f80d6c6
+
+*Click to play the video.*
+
+### Mobile Screens
+
+https://github.com/TheAdmi/QRGenerator/assets/95725338/f497511b-96c6-46cf-850e-095dd5737508
+
+*Click to play the video.*
+
+We are committed to providing an optimal user experience for all visitors, regardless of the device they are using.
+
 # Setup
 
 Clone the repository:
