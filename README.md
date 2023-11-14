@@ -25,14 +25,14 @@ Our website is designed to be fully responsive, ensuring a great user experience
 
 ![QRGenerator - pc screen](QRGenerator(pc).gif)
 
-*Click to play the video.*
+*Wait to play the GIF.*
 
 ### Mobile Screens
 
 QRGenerator(mobile).gif
 ![QRGenerator - mobile screen](QRGenerator(mobile).gif)
 
-*Click to play the video.*
+*Wait to play the GIF.*
 
 We are committed to providing an optimal user experience for all visitors, regardless of the device they are using.
 
