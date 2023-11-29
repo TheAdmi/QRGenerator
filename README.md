@@ -41,7 +41,7 @@ We are committed to providing an optimal user experience for all visitors, regar
 Clone the repository:
 
 ```bash
-git clone https://github.com/TheAdmi/QRGenerator.git
+git clone https://github.com/abdellah-agrm/QRGenerator.git
 ```
 
 Navigate to the project directory:
